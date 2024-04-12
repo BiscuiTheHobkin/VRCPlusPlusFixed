@@ -1,0 +1,17 @@
+C:\Users\Biscuit\Desktop\FlipScreen\VRCPlusPlusFixed\Output\VRCPlusPlus.dll
+C:\Users\Biscuit\Desktop\FlipScreen\VRCPlusPlusFixed\Output\Il2CppInterop.Common.dll
+C:\Users\Biscuit\Desktop\FlipScreen\VRCPlusPlusFixed\Output\Il2CppInterop.HarmonySupport.dll
+C:\Users\Biscuit\Desktop\FlipScreen\VRCPlusPlusFixed\Output\Il2CppInterop.Runtime.dll
+C:\Users\Biscuit\Desktop\FlipScreen\VRCPlusPlusFixed\Output\Il2Cppmscorlib.dll
+C:\Users\Biscuit\Desktop\FlipScreen\VRCPlusPlusFixed\Output\Il2CppVRCSDKBase.dll
+C:\Users\Biscuit\Desktop\FlipScreen\VRCPlusPlusFixed\Output\Il2Cppwebsocket-sharp.dll
+C:\Users\Biscuit\Desktop\FlipScreen\VRCPlusPlusFixed\Output\MelonLoader.dll
+C:\Users\Biscuit\Desktop\FlipScreen\VRCPlusPlusFixed\Output\Unity.InputSystem.dll
+C:\Users\Biscuit\Desktop\FlipScreen\VRCPlusPlusFixed\Output\UnityEngine.CoreModule.dll
+C:\Users\Biscuit\Desktop\FlipScreen\VRCPlusPlusFixed\Output\UnityEngine.InputLegacyModule.dll
+C:\Users\Biscuit\Desktop\FlipScreen\VRCPlusPlusFixed\Output\UnityEngine.InputModule.dll
+C:\Users\Biscuit\Desktop\FlipScreen\VRCPlusPlusFixed\Output\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Biscuit\Desktop\FlipScreen\VRCPlusPlusFixed\obj\Release\VRCPlusPlus.csproj.AssemblyReference.cache
+C:\Users\Biscuit\Desktop\FlipScreen\VRCPlusPlusFixed\obj\Release\VRCPlusPlus.csproj.CoreCompileInputs.cache
+C:\Users\Biscuit\Desktop\FlipScreen\VRCPlusPlusFixed\obj\Release\VRCPlusP.454860E0.Up2Date
+C:\Users\Biscuit\Desktop\FlipScreen\VRCPlusPlusFixed\obj\Release\VRCPlusPlus.dll

@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Biscuit\\Desktop\\VRCPlusPlus\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Biscuit\\Desktop\\FlipScreen\\VRCPlusPlusFixed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{788BC472-59F7-46F6-B760-65C18BA74389}|VRCPlusPlus.csproj|c:\\users\\biscuit\\desktop\\flipscreen\\vrcplusplusfixed\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788BC472-59F7-46F6-B760-65C18BA74389}|VRCPlusPlus.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Biscuit\\Desktop\\FlipScreen\\VRCPlusPlusFixed\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\Biscuit\\Desktop\\FlipScreen\\VRCPlusPlusFixed\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:58:07.181Z",
+              "EditorCaption": ""
             }
           ]
         },
